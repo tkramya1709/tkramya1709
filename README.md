@@ -1,6 +1,6 @@
 Hi, I’m [@tkramya1709](https://github.com/tkramya1709)
 
-- 👀 I’m interested in data science, AI/ML, cybersecurity, and full stack development.
+- 👀 I’m interested in  Data Structures and Algorithms , AI/ML, cybersecurity, and full stack development.
 - 🌱 I’m currently learning advanced machine learning techniques and exploring serverless architectures with AWS.
 - 💞️ I’m looking to collaborate on open-source projects related to data governance, AI applications, and enhancing user experiences.
 - 📫 How to reach me: ramya@example.com | [LinkedIn](https://www.linkedin.com/in/ramya)
